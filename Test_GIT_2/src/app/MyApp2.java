@@ -10,4 +10,9 @@ public class MyApp2 {
 	public void createNewSuperFeature() {
 		System.out.println("super feature");
 	}
+	
+	public void createAnotherNewFeature() {
+		System.out.println("another new feature");
+	}
+
 }
