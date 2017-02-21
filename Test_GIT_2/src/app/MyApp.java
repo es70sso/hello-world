@@ -8,7 +8,7 @@ public class MyApp {
 	}
 	
 	public void createAnotherNewFeature() {
-		
+		System.out.println("another new feature");
 	}
 
 }
