@@ -18,4 +18,8 @@ public class MyApp2 {
 	public void addedInMaster() {
 		System.out.println("implemented in new-feature");
 	}
+	
+	public void function( ) { // added in new-feature
+		
+	}
 }
