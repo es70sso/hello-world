@@ -15,4 +15,7 @@ public class MyApp2 {
 		System.out.println("another new feature");
 	}
 
+	public void addedInMaster() {
+		
+	}
 }
