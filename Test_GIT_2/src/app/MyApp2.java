@@ -16,6 +16,6 @@ public class MyApp2 {
 	}
 
 	public void addedInMaster() {
-		
+		System.out.println("implemented in new-feature");
 	}
 }
