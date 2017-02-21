@@ -6,5 +6,9 @@ public class MyApp {
 		System.out.println("hello git");
 		// change
 	}
+	
+	public void createAnotherNewFeature() {
+		
+	}
 
 }
