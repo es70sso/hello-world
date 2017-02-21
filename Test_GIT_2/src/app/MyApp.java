@@ -7,4 +7,7 @@ public class MyApp {
 		// change
 	}
 
+	public void createNewSuperFeature() {
+		System.out.println("super feature");
+	}
 }
